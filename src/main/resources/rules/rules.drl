@@ -1,6 +1,6 @@
 package rules
  
-import com.perf.demo.model.Product
+import org.csbs.nmls.model.Product
 
 rule "Offer for Diamond1"
 	when 
